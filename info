@@ -1,0 +1,19 @@
+Login Details for admin: admin/Test@123
+Login Details for Student: 10806121/Test@123
+Student Pincode for enroll Course Student: 715948
+
+Create Database onlinecourse
+Import database onlinecourse.sql
+
+This Project Divided into two modules
+
+Admin
+Student
+Admin—–Admin will register the student and provide username,password and pincode.Pincode will be used when a student enrolls for the course. Admin can manage session,semester,departments,course,students,students log
+
+Admin Panel Snapshot
+
+Students– Students can log in with valid reg no and password provided by the admin. Students can enroll for any course and can printout of the registered course.
+
+Student panel Snapshot
+
